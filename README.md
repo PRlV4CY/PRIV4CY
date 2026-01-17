@@ -5,7 +5,7 @@
 <h1 align="center">Johan Mathew Barrera</h1>
 
 <p align="center">
-  Front-End Developer • BCIT
+  Full-Stack Web Developer • BCIT
 </p>
 
 <p align="center">
